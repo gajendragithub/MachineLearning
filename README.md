@@ -4,3 +4,4 @@
 
 2. [Four Shapes Classification](https://github.com/gajendragithub/MachineLearning/blob/master/%20Four%20Shapes%20Classification.ipynb) [[dataset](https://www.kaggle.com/smeschke/four-shapes/data)]
 3. Titanic Survivals
+4. Human Activity Recognition [[dataset](https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones/data)]
